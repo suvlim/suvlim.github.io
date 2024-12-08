@@ -1,0 +1,48 @@
+.navbar {
+  background-color: rgba(110, 76, 65, 1);
+}
+.banner {
+  background-image: url(/Background1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+.description {
+  padding-top: 200px;
+  text-shadow: 1px 1px 1px black;
+  padding-right: 100px;
+}
+#About {
+  background-color: rgba(110, 76, 65, 1);
+}
+.title {
+  letter-spacing: 10px;
+}
+#Achievements {
+  background-color: rgba(148, 120, 76, 1);
+}
+.newsText {
+  align-content: center;
+}
+#Event {
+  background-color: rgba(110, 76, 65, 1);
+}
+#Contacts {
+  background-image: url(/Background4.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contactDescription {
+  text-shadow: 1px 1px 1px black;
+}
+footer {
+  background-color: rgba(110, 76, 65, 1);
+}
+.learnButton {
+  background-color: rgba(110, 76, 65, 1);
+  color: white;
+}
+hr {
+  color: white;
+  height: 5px;
+}
